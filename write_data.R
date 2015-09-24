@@ -1,0 +1,1 @@
+write.table(tidy_data, "tidy_data.txt", row.names=FALSE)
